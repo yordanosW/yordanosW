@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>✌️   Enjoy doing programming and sharing knowledge<br><br><br><br>🌱 I’m currently learning AWS<br><br>👨‍💻 All of my projects are available at yordanosW's workspace<br><br>💬 Ask me about JavaScript, Python, React, and NodeJS<br><br>📫 How to reach me yordanosarega4@gmail.com<br><br>📄 Know about my experiences my experiences<br><br>⚡ Fun fact I think I'm funny at writing code and learning new features
+<br>✌️   Enjoy doing programming and sharing knowledge<br><br>🌱 I’m currently learning AWS<br><br>👨‍💻 All of my projects are available at yordanosW's workspace<br><br>💬 Ask me about JavaScript, Python, React, and NodeJS<br><br>📫 How to reach me yordanosarega4@gmail.com<br><br>📄 Know about my experiences my experiences<br><br>⚡ Fun fact I think I'm funny at writing code and learning new features
 
 
 ## 🌐 Socials:
